@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a deep interest in coding, design, and project coordination.
 
 <div id="header" align="center">
-  <img src="https://pin.it/5jJ6Ny7cx" width="300"/>
+  <img src="https://static.cdn.epam.com/uploads/6063a76d512075b73de2f360a19d6f5e/photo_2025-06-23_19-18-07.jpg" width="300"/>
 </div>
 
 ---
