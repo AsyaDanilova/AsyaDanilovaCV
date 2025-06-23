@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a deep interest in coding, design, and project coordination.
 
+<div id="header" align="center">
+  <img src="https://pin.it/4D6exxxeO" width="300"/>
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -44,13 +48,13 @@ I’m a **27-year-old aspiring Front-End Developer** who found a passion for cod
 ## 🛠 Technological Stack  
 
 ### 🖥️ Programming Languages:  
-- **JavaScript**, **Python**, **TypeScript**, **C++**
+- **JavaScript**, **TypeScript**, **React**
 
 ### 🧑‍💻 Web Development:  
 - HTML5, CSS3, React, Node.js, Bootstrap, SCSS  
 
 ### ⚙️ Tools:  
-- Git, Docker, Kubernetes, VS Code, Figma  
+- Git, VS Code, Figma  
 
 ---
 
