@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a deep interest in coding, design, and project coordination.
 
 <div id="header" align="center">
-  <img src="https://pin.it/4D6exxxeO" width="300"/>
+  <img src="https://ru.pinterest.com/pin/4292562139937512/sent/?invite_code=eb0115c121414b02b21ff3c188986e68&sender=782500641414179604&sfo=1" width="300"/>
 </div>
 
 ---
