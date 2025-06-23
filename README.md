@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a deep interest in coding, design, and project coordination.
 
 <div id="header" align="center">
-  <img src="https://ru.pinterest.com/pin/4292562139937512/sent/?invite_code=eb0115c121414b02b21ff3c188986e68&sender=782500641414179604&sfo=1" width="300"/>
+  <img src="https://pin.it/5jJ6Ny7cx" width="300"/>
 </div>
 
 ---
@@ -61,9 +61,15 @@ I’m a **27-year-old aspiring Front-End Developer** who found a passion for cod
 <div align="center">
 
 ### Let's Connect! 🌐  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anastasiia-danilova-2985b729a)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://app.rs.school/cv/77149449-94c6-447e-a9bf-c19184e7a505)  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.telegram.org/@Asya7991)  
+<a href="https://www.linkedin.com/in/anastasiia-danilova-2985b729a">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://app.rs.school/cv/77149449-94c6-447e-a9bf-c19184e7a505">
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.telegram.org/@Asya7991">
+  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 </div>
 
