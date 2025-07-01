@@ -9,25 +9,19 @@
 
 ## 🚀 About Me
 
-🎓 **Education**  
+### 🎓 Education  
 - Saratov State University named after **N.G. Chernyshevsky**  
   *(Degree: Linguist)*
 
-💼 **Work Experience**  
-- **December 2021 - Present (Jun-2025)**  
-  **[EPAM Systems](https://www.epam.com/)**  
-  - Project Coordinator  
-  - Administrative Support  
-  - UX Writer  
-  - Junior Front-End Developer  
-
-🎯 **Interests**  
+### 🎯 Stack 
 I’m a **27-year-old aspiring Front-End Developer** who found a passion for coding while contributing to various project activities at EPAM Systems. After graduating from the **Rolling Scopes School Front-End Course**, I have been sharping my skills in:  
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,6 +39,15 @@ I’m a **27-year-old aspiring Front-End Developer** who found a passion for cod
 
 🔭 I'm continuously learning and improving to gain hands-on experience and build a rewarding career in software development.
 
+
+### 💼 Work Experience  
+- **December 2021 - Present (Jun-2025)**  
+  **[EPAM Systems](https://www.epam.com/)**  
+  - Project Coordinator  
+  - Administrative Support  
+  - UX Writer  
+  - Junior Front-End Developer  
+
 ---
 
 <div align='center'>
@@ -57,18 +60,6 @@ I’m a **27-year-old aspiring Front-End Developer** who found a passion for cod
 
 </div>
 
----
-
-## 🛠 Technological Stack  
-
-### 🖥️ Programming Languages:  
-- **JavaScript**, **TypeScript**, **React**
-
-### 🧑‍💻 Web Development:  
-- HTML5, CSS3, React, Node.js, Bootstrap, SCSS  
-
-### ⚙️ Tools:  
-- Git, VS Code, Figma  
 
 ---
 
