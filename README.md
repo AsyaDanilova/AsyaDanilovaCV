@@ -1,5 +1,5 @@
-# Hi, I'm Asya! 👋
-
+# Hi, I'm Asya! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&color=E43D82&width=435&height=30&lines=Frontend+Developer" alt="Typing SVG" />
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a deep interest in coding, design, and project coordination.
 
 <div id="header" align="center">
@@ -24,11 +24,25 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a de
 
 🎯 **Interests**  
 I’m a **27-year-old aspiring Front-End Developer** who found a passion for coding while contributing to various project activities at EPAM Systems. After graduating from the **Rolling Scopes School Front-End Course**, I have been sharping my skills in:  
-- **JavaScript**  
-- **React**  
-- **Bootstrap**  
-- **Node.js**  
-- **SCSS**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![StyleLint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
+![Husky](https://img.shields.io/badge/husky-ccc?style=for-the-badge&label=%F0%9F%90%B6&labelColor=ccc)
+![CommitLint](https://img.shields.io/badge/commitlint-5672cd?style=for-the-badge&logoColor=fff&logo=commitlint)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 🔭 I'm continuously learning and improving to gain hands-on experience and build a rewarding career in software development.
 
@@ -38,6 +52,7 @@ I’m a **27-year-old aspiring Front-End Developer** who found a passion for cod
 
 ### 🌟 Stats & Achievements
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaDanilova&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats-asyaDanilova-projects.vercel.app/api/top-langs/?username=asyaDanilova&size_weight=1&count_weight=0&theme=radical)
 <img src="http://github-readme-streak-stats.herokuapp.com?user=asyaDanilova&theme=radical&date_format=M%20j%5B%2C%20Y%5D"><br><br>
 <img src="https://www.codewars.com/users/AsyaDanilova/badges/large">
 
