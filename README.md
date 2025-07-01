@@ -1,6 +1,5 @@
 # Hi, I'm Asya! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&color=E43D82&width=435&height=30&lines=Frontend+Developer" alt="Typing SVG" />
-Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a deep interest in coding, design, and project coordination.
 
 <div id="header" align="center">
   <img src="https://static.cdn.epam.com/uploads/6063a76d512075b73de2f360a19d6f5e/photo_2025-06-23_19-18-07.jpg" width="300"/>
@@ -20,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a de
   - Project Coordinator  
   - Administrative Support  
   - UX Writer  
-  - Junior Developer  
+  - Junior Front-End Developer  
 
 🎯 **Interests**  
 I’m a **27-year-old aspiring Front-End Developer** who found a passion for coding while contributing to various project activities at EPAM Systems. After graduating from the **Rolling Scopes School Front-End Course**, I have been sharping my skills in:  
